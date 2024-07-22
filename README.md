@@ -1,10 +1,7 @@
 # projects
 
-This repository contains a collection of projects done at university or in my free time. In the following, for each of them a very short and simple introduction will be given.
+This repository contains a collection of projects related to machine learning and classification tasks. In the following, for each of them a very short and simple introduction will be given.
 
-# Organization and Fun Apps Webpage
-
-My web page is a personal project that I started for fun and for the purpose of learning new things. It has been hosted on the Vercel Cloud Platform and is a continuous project that is still under construction. However, the project is constantly updated and improved, so stay tuned! 
 
 # Convolutional Neural Networks (CNNs) and Image Classification
 
